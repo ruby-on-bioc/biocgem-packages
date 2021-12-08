@@ -1,0 +1,57 @@
+[
+  {
+    "Package": "DO.db",
+    "Version": "2.9",
+    "MD5sum": "63dda6d46d2fe40c52a2e79260a7fb9d"
+  },
+  {
+    "Package": "EnsDb.Hsapiens.v86",
+    "Version": "2.99.0",
+    "MD5sum": "0c9e52512ff6dbbbdb754c4d41149939"
+  },
+  {
+    "Package": "GO.db",
+    "Version": "3.14.0",
+    "MD5sum": "eef1de573f2304a4c12e64da2d9f55bd"
+  },
+  {
+    "Package": "org.Hs.eg.db",
+    "Version": "3.14.0",
+    "MD5sum": "ef7fc0096ec579f564a33f0f4869324a"
+  },
+  {
+    "Package": "org.Mm.eg.db",
+    "Version": "3.14.0",
+    "MD5sum": "46f61ab7f4645b96538a9f42cf5d6aa7"
+  },
+  {
+    "Package": "PFAM.db",
+    "Version": "3.14.0",
+    "MD5sum": "06ccd5cde0c66affe9a65f2dfac54f19"
+  },
+  {
+    "Package": "reactome.db",
+    "Version": "1.77.0",
+    "MD5sum": "02cf27bf49660cc2daeaeb3643e71d5c"
+  },
+  {
+    "Package": "TxDb.Hsapiens.UCSC.hg19.knownGene",
+    "Version": "3.2.2",
+    "MD5sum": "61be88a81433958571b57d0952be48a0"
+  },
+  {
+    "Package": "TxDb.Hsapiens.UCSC.hg38.knownGene",
+    "Version": "3.14.0",
+    "MD5sum": "a931ccbc39dd4500b55b8aa2f3623ae7"
+  },
+  {
+    "Package": "TxDb.Mmusculus.UCSC.mm10.knownGene",
+    "Version": "3.10.0",
+    "MD5sum": "129b610bf05ec77451731196baa55bcc"
+  },
+  {
+    "Package": "TxDb.Mmusculus.UCSC.mm9.knownGene",
+    "Version": "3.2.2",
+    "MD5sum": "cb72af039b011033477363bda8ed9104"
+  }
+]
