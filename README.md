@@ -1,3 +1,5 @@
+# Bioc Gems
+
 1. Edit `packages.txt` if you want.
 2. Use `devtools::install_github("seandavi/BiocPkgTools")` to install the latest `BiocPkgTools`
 3. Check your `BiocManager::version()`. Update to the latest version. `BiocManager::install(version = "3.14")`
