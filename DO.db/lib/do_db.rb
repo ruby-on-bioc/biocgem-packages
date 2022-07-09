@@ -2,6 +2,6 @@
 
 require 'sequel'
 DoDb = Sequel.sqlite(
-  File.expand_path('../extdata/*.sqlite', __dir__),
+  File.expand_path('../extdata/DO.sqlite', __dir__),
   readonly: true
 )
