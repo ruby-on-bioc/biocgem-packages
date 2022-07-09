@@ -1,7 +1,7 @@
 require "json"
 
 package_list_path = File.expand_path("packages.json", __dir__)
-output_dir = File.expand_path("packages", __dir__)
+output_dir = Dir.pwd # File.expand_path("packages", __dir__)
 
 package_metadata = JSON.parse(File.read(package_list_path))
 

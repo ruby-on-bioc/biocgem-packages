@@ -11,28 +11,28 @@
   },
   {
     "Package": "GO.db",
-    "Version": "3.14.0",
-    "MD5sum": "eef1de573f2304a4c12e64da2d9f55bd"
+    "Version": "3.15.0",
+    "MD5sum": "444d86fe1a6d5670a689f3c5e348ad67"
   },
   {
     "Package": "org.Hs.eg.db",
-    "Version": "3.14.0",
-    "MD5sum": "ef7fc0096ec579f564a33f0f4869324a"
+    "Version": "3.15.0",
+    "MD5sum": "8d3d0d5d1e37d240d74cb9ad9a0ba05a"
   },
   {
     "Package": "org.Mm.eg.db",
-    "Version": "3.14.0",
-    "MD5sum": "46f61ab7f4645b96538a9f42cf5d6aa7"
+    "Version": "3.15.0",
+    "MD5sum": "e9941989f735240ffbdf3113bada342b"
   },
   {
     "Package": "PFAM.db",
-    "Version": "3.14.0",
-    "MD5sum": "06ccd5cde0c66affe9a65f2dfac54f19"
+    "Version": "3.15.0",
+    "MD5sum": "f7b80bbd00214b31b7404e1f64239f0d"
   },
   {
     "Package": "reactome.db",
-    "Version": "1.77.0",
-    "MD5sum": "02cf27bf49660cc2daeaeb3643e71d5c"
+    "Version": "1.79.0",
+    "MD5sum": "e1af33ac3d8bddb8dd264f3e659aa2c9"
   },
   {
     "Package": "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -41,8 +41,8 @@
   },
   {
     "Package": "TxDb.Hsapiens.UCSC.hg38.knownGene",
-    "Version": "3.14.0",
-    "MD5sum": "a931ccbc39dd4500b55b8aa2f3623ae7"
+    "Version": "3.15.0",
+    "MD5sum": "20829f7fc5110b603ddbb0098e0aac0c"
   },
   {
     "Package": "TxDb.Mmusculus.UCSC.mm10.knownGene",
