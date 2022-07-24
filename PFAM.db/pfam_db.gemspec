@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.homepage = 'https://github.com/ruby-on-bioc/PFAM.db'
   spec.required_ruby_version = '>= 2.6.0'
 
-  spec.files         = Dir['*.{md,txt}', 'lib/**/*', 'extdata/']
+  spec.files         = Dir['*.{md,txt}', 'lib/**/*', 'extdata/*']
   spec.require_paths = ['lib']
 
   spec.add_dependency 'sequel'
