@@ -30,4 +30,4 @@ With all due respect to the R language and Bioconductor maintainers...
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ruby-on-bioc/PfamDb.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ruby-on-bioc/PFAM.db.
