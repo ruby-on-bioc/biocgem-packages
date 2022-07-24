@@ -1,4 +1,6 @@
-# Bioc Gems
+# biocgem-pacages
+
+## Development
 
 1. Edit `packages.txt` if you want.
 2. Use `devtools::install_github("seandavi/BiocPkgTools")` to install the latest `BiocPkgTools`
