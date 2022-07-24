@@ -1,10 +1,6 @@
 require "json"
-require "fileutils"
 
 package_list_path = File.expand_path("packages.json", __dir__)
-output_dir = Dir.pwd# File.expand_path("packages", __dir__)
-FileUtils.mkdir_p(output_dir)
-
 package_metadata = JSON.parse(File.read(package_list_path))
 
 if File.exist? ".git"
