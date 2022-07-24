@@ -8,3 +8,5 @@
 4. `Rscript packages2json.R`
 5. Generate ruby-bioc gems: `ruby generate.rb`
 6. Run tests: `ruby run_tests.rb`
+
+option : Remove `.git` ruby `ruby commit.rb`
