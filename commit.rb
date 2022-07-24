@@ -7,9 +7,19 @@ FileUtils.mkdir_p(output_dir)
 
 package_metadata = JSON.parse(File.read(package_list_path))
 
+if File.exist? ".git"
+  warn ".git exist"
+  exit 1
+end
+
 package_metadata.each do |metadata|
   name    = metadata["Package"]
-  version = metadata["Version"]
-  md5     = metadata["MD5sum"]
-  system "biocgem new -n #{name} -v #{version} -m #{md5} -o #{output_dir}"
+  system <<~EOS
+    cd #{name} &&
+    git init -b main &&
+    git add . &&
+    git commit -m "Initial commit" &&
+    git remote add origin https://github.com/ruby-on-bioc/#{name} &&
+    git push origin main
+  EOS
 end
