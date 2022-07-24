@@ -1,6 +1,7 @@
 # PFAM.db
 
 [![build](https://github.com/ruby-on-bioc/PFAM.db/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/PFAM.db/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-3.15.0-green.svg)](https://bioconductor.org/packages/PFAM.db/)
 
 :notes: [PFAM.db](https://bioconductor.org/packages/PFAM.db/) - for Ruby
 

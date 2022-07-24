@@ -1,6 +1,7 @@
 # GO.db
 
 [![build](https://github.com/ruby-on-bioc/GO.db/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/GO.db/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-3.15.0-green.svg)](https://bioconductor.org/packages/GO.db/)
 
 :notes: [GO.db](https://bioconductor.org/packages/GO.db/) - for Ruby
 

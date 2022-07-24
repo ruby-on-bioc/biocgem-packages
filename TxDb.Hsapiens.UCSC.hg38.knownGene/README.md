@@ -1,6 +1,7 @@
 # TxDb.Hsapiens.UCSC.hg38.knownGene
 
 [![build](https://github.com/ruby-on-bioc/TxDb.Hsapiens.UCSC.hg38.knownGene/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/TxDb.Hsapiens.UCSC.hg38.knownGene/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-3.15.0-green.svg)](https://bioconductor.org/packages/TxDb.Hsapiens.UCSC.hg38.knownGene/)
 
 :notes: [TxDb.Hsapiens.UCSC.hg38.knownGene](https://bioconductor.org/packages/TxDb.Hsapiens.UCSC.hg38.knownGene/) - for Ruby
 

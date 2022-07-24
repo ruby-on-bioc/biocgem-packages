@@ -1,6 +1,7 @@
 # DO.db
 
 [![build](https://github.com/ruby-on-bioc/DO.db/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/DO.db/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-2.9-green.svg)](https://bioconductor.org/packages/DO.db/)
 
 :notes: [DO.db](https://bioconductor.org/packages/DO.db/) - for Ruby
 

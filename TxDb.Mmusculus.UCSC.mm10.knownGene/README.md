@@ -1,6 +1,7 @@
 # TxDb.Mmusculus.UCSC.mm10.knownGene
 
 [![build](https://github.com/ruby-on-bioc/TxDb.Mmusculus.UCSC.mm10.knownGene/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/TxDb.Mmusculus.UCSC.mm10.knownGene/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-3.10.0-green.svg)](https://bioconductor.org/packages/TxDb.Mmusculus.UCSC.mm10.knownGene/)
 
 :notes: [TxDb.Mmusculus.UCSC.mm10.knownGene](https://bioconductor.org/packages/TxDb.Mmusculus.UCSC.mm10.knownGene/) - for Ruby
 

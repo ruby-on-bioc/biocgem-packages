@@ -1,6 +1,7 @@
 # org.Mm.eg.db
 
 [![build](https://github.com/ruby-on-bioc/org.Mm.eg.db/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/org.Mm.eg.db/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-3.15.0-green.svg)](https://bioconductor.org/packages/org.Mm.eg.db/)
 
 :notes: [org.Mm.eg.db](https://bioconductor.org/packages/org.Mm.eg.db/) - for Ruby
 

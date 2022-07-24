@@ -1,6 +1,7 @@
 # EnsDb.Hsapiens.v86
 
 [![build](https://github.com/ruby-on-bioc/EnsDb.Hsapiens.v86/actions/workflows/ci.yml/badge.svg)](https://github.com/ruby-on-bioc/EnsDb.Hsapiens.v86/actions/workflows/ci.yml)
+[![version](https://img.shields.io/badge/release%20version-2.99.0-green.svg)](https://bioconductor.org/packages/EnsDb.Hsapiens.v86/)
 
 :notes: [EnsDb.Hsapiens.v86](https://bioconductor.org/packages/EnsDb.Hsapiens.v86/) - for Ruby
 
