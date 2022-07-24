@@ -12,4 +12,5 @@ package_metadata.each do |metadata|
   version = metadata["Version"]
   md5     = metadata["MD5sum"]
   system "biocgem new -n #{name} -v #{version} -m #{md5} -o #{output_dir}"
+  system "gh repo create ruby-on-bioc/#{name} --public"
 end
